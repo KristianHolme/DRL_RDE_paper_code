@@ -1,0 +1,38 @@
+data.zip
+_output/*
+pyclaw.log
+__pycache__/*
+venv/*
+Manifest*.toml
+.vscode/
+LocalPreferences.toml
+# _research/
+_research/progresslogs/
+log/*
+wandb/*
+videos/*
+plots/*
+data/
+log/
+*-workspace
+temp/
+.CondaPkg/
+documents/*/*_files/
+documents/*/*.html
+*.ipynb
+sb3pendulum/
+
+#drawio
+*.bkp
+# MCPRepl security configuration (contains API keys)
+.mcprepl/
+.julia-startup.jl
+.cursor/mcp.json
+.secrets/
+*.odp*
+DRL_RDE_paper_code/
+data_public
+data_bak*
+# .cursor
+*_bak
+tmp/
